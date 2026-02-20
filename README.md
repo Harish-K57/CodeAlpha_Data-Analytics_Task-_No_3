@@ -72,8 +72,8 @@ The visualizations help in identifying:
 ---
 
 ## 🧑‍💻 Author
-**Siddhesh Khedekar**  
-BBA Student | Data Visualization & Analytics
+**Harish Kawthalkar**  
+Aspiring Data Visualization & Analytics
 
 ---
 
