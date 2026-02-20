@@ -1,88 +1,81 @@
 # CodeAlpha_Data-Analytics_Task_No_3
-📌 Task Description
+# 📊 Data Visualization
 
-The objective of Task 3: Data Visualization is to transform raw data into meaningful visual formats such as charts, graphs, and dashboards. The task focuses on creating clear, insightful, and decision-oriented visualizations using professional data visualization tools.
+## 📌 Task Objective
+The objective of **Task No. 3: Data Visualization** is to transform raw data into meaningful visual representations such as charts, graphs, and dashboards. The task focuses on creating clear, insightful, and well-designed visuals that enhance understanding, reveal patterns, and support data-driven decision-making.
 
-🛠 Tool Used
+---
 
-Tableau Desktop
+## 🛠 Tool Used
+- **Tableau Desktop**
 
-(Tableau was used instead of Matplotlib or Seaborn to build interactive dashboards and visuals.)
+(Tableau was used to create interactive and visually impactful dashboards.)
 
-📂 Project File
+---
 
-Code_Alpha_Task_No_3_blinkit_project.twbx
+## 📂 Project File
+- `Code_Alpha_Task_No_3_blinkit_project.twbx`  
+  This Tableau packaged workbook contains the dataset, worksheets, dashboards, and calculated fields used for visualization.
 
-Contains dataset, worksheets, dashboards, and calculated fields
+---
 
-Packaged Tableau workbook for easy access
+## 📈 Task Implementation
 
-📈 What Was Done in This Task
-✔ Data Transformation
+### ✔ Data Transformation
+- Raw data was imported and structured within Tableau
+- Measures and dimensions were analyzed
+- Calculated fields were created where required
 
-Raw data was cleaned and structured inside Tableau
+---
 
-Calculated fields and measures were created for analysis
-
-✔ Data Visualization
-
+### ✔ Data Visualization
 The following visual elements were designed:
+- Bar charts
+- Line charts
+- Pie / Donut charts
+- KPI cards
+- Interactive dashboards
 
-Bar charts
+---
 
-Line charts
+### ✔ Insight Generation
+The visualizations help in identifying:
+- Sales performance trends
+- Category-wise contribution
+- Outlet and location performance
+- Customer behavior patterns
 
-Pie / donut charts
+---
 
-KPI cards
+### ✔ Data Storytelling
+- Dashboards are logically structured for easy interpretation
+- Visual hierarchy highlights key insights
+- Filters enable interactive exploration of data
+- Visuals are designed to support business decision-making
 
-Interactive dashboards
+---
 
-✔ Insight Generation
+## 📊 Dashboard Features
+- Interactive filters
+- Clear KPI indicators
+- Clean and user-friendly layout
+- Insight-focused visual design
 
-Visualizations reveal insights related to:
+---
 
-Sales performance
+## 🎯 Learning Outcomes
+- Hands-on experience with Tableau
+- Improved understanding of data storytelling
+- Ability to convert raw data into actionable insights
+- Enhanced data visualization and dashboard design skills
 
-Product category contribution
+---
 
-Outlet and location analysis
+## 🧑‍💻 Author
+**Siddhesh Khedekar**  
+BBA Student | Data Visualization & Analytics
 
-Customer behavior patterns
+---
 
-✔ Storytelling with Data
-
-Dashboards are structured logically
-
-Visual hierarchy guides decision-making
-
-Filters allow users to explore data dynamically
-
-📊 Dashboard Features
-
-Interactive filters (category, outlet type, location)
-
-Clear KPI indicators
-
-User-friendly layout
-
-Business-focused insights
-
-🎯 Learning Outcomes
-
-Hands-on experience with Tableau
-
-Understanding of data storytelling
-
-Ability to convert raw data into actionable insights
-
-Improved dashboard design and visualization skills
-
-🧑‍💻 Author
-
-Harish Kawthalkar
-Data Visualization & Analytics Learner
-
-📌 Conclusion
-
-This project successfully fulfills Task 3: Data Visualization by transforming raw data into impactful visuals using Tableau, enhancing understanding, revealing insights, and supporting data-driven decision-making.
+## 📌 Conclusion
+This project successfully completes **Task No. 3: Data Visualization** by transforming raw data into impactful visual dashboards using **Tableau**, enabling clear insights and informed decision-making.
